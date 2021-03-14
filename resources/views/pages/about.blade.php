@@ -39,5 +39,9 @@
       </div>
     </div>
     <button class="btn btn-primary" type="submit">Submit form</button>
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Buka Modal</button>
+    <x-modal>
+        halo
+    </x-modal>
   </form>
 @endsection

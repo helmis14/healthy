@@ -47,6 +47,10 @@
             </div>
             <div class="form-group">
               <button type="button" class="btn btn-primary btn-round">Send Message</button>
+              <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Buka Modal</button>
+              <x-modal>
+                  halo
+              </x-modal>
             </div>
           </form>
 

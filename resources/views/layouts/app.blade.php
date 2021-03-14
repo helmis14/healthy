@@ -12,8 +12,6 @@
     <div class="container">
         @yield('content')
     </div>
-
-
     @include('includes.footer')
 
     @yield('js')
