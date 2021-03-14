@@ -7,7 +7,7 @@
             <a href="#submenu1" data-toggle="collapse" aria-expanded="false" class="bg-primary list-group-item list-group-item-action flex-column align-items-start">
                 <div class="d-flex w-100 justify-content-start align-items-center">
                     <span class="fa fa-dashboard fa-fw mr-3"></span>
-                    <span class="menu-collapsed">Home</span>
+                    <span class="menu-collapsed">Profile</span>
                     <span class="submenu-icon ml-auto"></span>
                 </div>
             </a>
@@ -30,7 +30,7 @@
                 </div>
             </a>
             <div id="submenu2" class="collapse sidebar-submenu">
-                <a href="#" class="list-group-item list-group-item-action bg-primary text-white">
+                <a href="/contact" class="list-group-item list-group-item-action bg-primary text-white">
                     <span class="menu-collapsed">Contact</span>
                 </a>
                 </a>
